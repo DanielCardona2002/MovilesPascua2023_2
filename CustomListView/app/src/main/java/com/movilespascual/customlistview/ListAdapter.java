@@ -28,7 +28,9 @@ public class ListAdapter extends BaseAdapter {
         inflater = LayoutInflater.from(contexto);
     }
 
+    //Debe llegar la misma cantida de nombre e imagenes
     @Override
+    //elgetCount es para que cuente los nombre y lea y retorne
     public int getCount() {
         return nombres.length;
     }
