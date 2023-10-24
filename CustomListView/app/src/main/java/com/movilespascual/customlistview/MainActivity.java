@@ -20,36 +20,36 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int[] idImagen = {
-                R.drawable.img,
-                R.drawable.img_1,
-                R.drawable.img_2,
-                R.drawable.img_3,
-                R.drawable.img_4,
-                R.drawable.img_5,
+                R.drawable.pogba,
+                R.drawable.messi,
+                R.drawable.ney,
+                R.drawable.nadal,
+                R.drawable.lebron,
+                R.drawable.madre,
         };
 
         String[] nombre = {
-               "Juan Camilo",
-               "Jean Paul",
-                "Craig",
-                "Mike",
-                "Ivana",
-                "Michelle Molina"
+               "Paul Pogba",
+               "Leonel Messi",
+                "Neymar",
+                "Nadal",
+                "Lebron James",
+                "Mamá"
         };
 
         String[] ultimoMensaje ={
-                "Hey", "What´s Up","Nos vemos hoy?","Qué haces?","Wie heist du?","Gotta go"
+                "Vamos hacer ejercicio", "Voy a ganar el balon de oro","Dani vamos a chirriar","Vamos a jugar tenis?","Dani me prestas dinero?","hijo bota la basuras por favor"
         };
 
         String[] horaUltimoMensaje ={
-                "10:30", "20:50","00:01","03:44","10:45","13:56"
+                "22:30", "09:14","23:15","15:40","10:45","09:20"
         };
         String[] numeroTelefono ={
                 "+573452222", "+344333444","'358976410","+578765243","+349087652","+577121298"
         };
 
         String[] pais ={
-                "Colombia", "USA","Colombia","Perú","Alemania","Suiza"
+                "Francia", "Argentina","Brasil","España","USA","Colombia"
         };
 
 
